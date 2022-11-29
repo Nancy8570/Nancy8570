@@ -22,6 +22,10 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=Nancy8570&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nancy8570&theme=vue"/>
+</p>
 
 ## 📟 GitHub Stats
 <p align="center">
@@ -35,10 +39,6 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nancy8570&theme=vue"/>
-</p>
 
 
 
