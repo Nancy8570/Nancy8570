@@ -40,7 +40,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nancy8570&theme=vue"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancy8570&show_icons=true&locale=en" alt="nancy8570" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy8570&" alt="nancy8570" /></p>
 
