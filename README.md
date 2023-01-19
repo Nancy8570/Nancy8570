@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancy8570&label=Profile%20views&color=0e75b6&style=flat" alt="nancy8570" /> </p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F104600841%2FMejorPedido-video-explainfood-app&psig=AOvVaw2BX7N3pjfBm-HLSlXkQ9sS&ust=1674235783643000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjPwb2U1PwCFQAAAAAdAAAAABAE" alt="Nancy8570" height="250px width="250px"/>
+<img src="gif.gif" alt="Nancy8570" height="250px width="250px"/>
 
 # 💫 About Me : 
 - 🌱 I’m currently learning more about Java,SpringBoot.
