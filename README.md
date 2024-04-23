@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nancy Rana</h1>
-<h3 align="center">A passionate Java Backend developer/QA from India</h3>
+<h3 align="center">A passionate SDET/QA from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancy8570&label=Profile%20views&color=0e75b6&style=flat" alt="nancy8570" /> </p>
 <img src="gif.gif" alt="Nancy8570" height="250px width="250px"/>
 
 # 💫 About Me : 
-- 🌱 I’m currently learning more about Java,SpringBoot.
+- 🌱 I’m currently learning more about Selenium,Java,SpringBoot.
 - 👯 I’m looking to collaborate on Backend Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nancy8570.github.io/)**
 - ⚡ Fun fact: I make people laugh.
