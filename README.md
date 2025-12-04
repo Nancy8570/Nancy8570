@@ -6,7 +6,7 @@
 
 # 💫 About Me : 
 - 🌱 I’m currently learning more about Selenium,Java,SpringBoot.
-- 👯 I’m looking to collaborate on Backend Projects.
+- 👯 I’m looking to collaborate on Testing Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nancy8570.github.io/)**
 - ⚡ Fun fact: I make people laugh.
 - 📫 How to reach me <b>(rananancy91@gmail.com)</b> : Check social links below.
